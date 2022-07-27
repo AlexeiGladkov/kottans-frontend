@@ -99,7 +99,7 @@ The course is interesting, but here only the basics I can’t add anything else
 <details>
 <summary>Screenshot</summary>
 
-![ScreenshotImage](task_html_css_intro/learn_html.png.)
+![ScreenshotImage](task_html_css_intro/learn_html.png)
 
 </details>
 <br>
@@ -109,7 +109,7 @@ The course is interesting, but here only the basics I can’t add anything else
 <details>
 <summary>Screenshot</summary>
 
-![ScreenshotImage](task_html_css_intro/rearn_css.png)
+![ScreenshotImage](task_html_css_intro/learn_css.png)
 
 </details>
 <br>
